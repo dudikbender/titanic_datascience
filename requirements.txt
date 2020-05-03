@@ -1,0 +1,2 @@
+pypandoc==1.5
+-e git+https://github.com/dudikbender/springboard.git@5a3bc5ec5795740a1f758eccf6421ac95642061b#egg=titanic&subdirectory=titanic_datascience
